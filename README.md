@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Enjoy the game and may the best player win! 
+Enjoy the game and may the best player win! xd
